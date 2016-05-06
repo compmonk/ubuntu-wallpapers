@@ -1,4 +1,4 @@
-sudo apt-get install ubuntu-wallpapers-*
+sudo apt-get install -y ubuntu-wallpapers-*
 sudo rm /usr/share/backgrounds/contest/*
 sudo rm /usr/share/gnome-background-properties/*
 sudo cp ubuntu.xml /usr/share/backgrounds/contest/
